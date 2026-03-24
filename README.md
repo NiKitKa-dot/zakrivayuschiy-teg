@@ -1,1 +1,1 @@
-https://github.com/NiKitKa-dot/zakrivayuschiy-teg-main
+https://github.com/NiKitKa-dot/zakrivayuschiy-teg
